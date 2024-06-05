@@ -1,7 +1,8 @@
-# Getting Started
+#Seamless Video Conferencing with Java Spring Boot
 
-### Reference Documentation
-For further reference, please consider the following sections:
+
+https://github.com/pathanfazal/Video-Conferencing-using-Java-Spring-boot/assets/97498401/185962c7-6efc-4b1f-9096-3de5f2c43e1d
+
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.1.2/maven-plugin/reference/html/)
